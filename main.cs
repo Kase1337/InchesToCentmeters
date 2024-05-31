@@ -6,7 +6,7 @@ class Program
   {
     //declare the required variables 
     double Measurement_in_inches  = 2.54;
-    int Input_value  = -15;
+    int Input_value  = 15994;
     
     // convert inches to centimeters aka multiply the entered value '5' by 2.54.
     double centimeters = Input_value  * Measurement_in_inches;
